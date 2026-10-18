@@ -4,13 +4,21 @@
 I'm passionate about Data Analytics, Cloud Computing, Web Development, and emerging technologies. I enjoy learning new skills, building practical projects, and sharing knowledge with others.
 
 🔭 **Currently Working On:** Data Analytics Projects, Power BI Dashboards, Web Development, and AGRITRACK
+
 🌱 **Currently Learning:** Python, SQL, Linux, Networking, AWS, Docker, Kubernetes, and Data Science
+
 👯 **Looking to Collaborate On:** Open-Source Projects, Data Analytics, Cloud Computing, and Web Development
+
 🤝 **Interested In:** Research, Technical Learning, Knowledge Sharing, and Teaching
+
 💬 **Ask Me About:** Power BI, SQL, Python, Data Visualization, Git & GitHub, and Web Development
+
 🎯 **Career Goal:** To grow in Data Analytics and Cloud Computing while building strong research and teaching skills
+
 📫 **How to Reach Me:** rohinighogare14@gmail.com
+
 😄 **Pronouns:** She/Her
+
 ⚡ **Fun Fact:** I love transforming ideas into practical projects and believe that consistent learning leads to growth.
 
 
