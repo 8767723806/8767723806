@@ -5,7 +5,7 @@ I'm passionate about Data Analytics, Cloud Computing, Web Development, and emerg
 
 🔭 **Currently Working On:** Data Analytics Projects, Power BI Dashboards, Web Development, and AGRITRACK
 
-🌱 **Currently Learning:** Python, SQL, Linux, Networking, AWS, Docker, Kubernetes, and Data Science
+🌱 **Currently Learning:** Python, SQL, Linux, Data Science, Java, DSA
 
 👯 **Looking to Collaborate On:** Open-Source Projects, Data Analytics, Cloud Computing, and Web Development
 
